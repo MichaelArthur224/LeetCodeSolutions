@@ -12,13 +12,8 @@ Solutions are categorized by patterns, where each pattern corresponds to a speci
 
 # How to Use
 
-Browse the repository to find solutions grouped by pattern.
-Each solution file includes:
-The problem statement.
-My approach and thought process.
-The code implementation with comments.
-Use the patterns to understand which techniques are best suited for different problem types.
+Browse the repository to find solutions grouped by pattern. Each solution file includes: The problem statement. My approach and thought process. The code implementation. Use the patterns to understand which techniques are best suited for different problem types.
 
 ## Contact
 Connect with me to discuss coding, DSA, or collaboration opportunities:
-- **LinkedIn**: [Michael Arthur](https://www.linkedin.com/in/your-linkedin-profile-url/)
+- [**LinkedIn**](https://www.linkedin.com/in/michael-arthur-0614ba204/)
