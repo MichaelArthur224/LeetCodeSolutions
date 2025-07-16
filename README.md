@@ -21,4 +21,4 @@ Use the patterns to understand which techniques are best suited for different pr
 
 ## Contact
 Connect with me to discuss coding, DSA, or collaboration opportunities:
-- **LinkedIn**: (https://www.linkedin.com/in/michael-arthur-0614ba204/)
+- **LinkedIn**: [Michael Arthur](https://www.linkedin.com/in/your-linkedin-profile-url/)
